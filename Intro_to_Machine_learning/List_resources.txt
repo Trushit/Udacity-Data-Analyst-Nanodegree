@@ -1,0 +1,7 @@
+"I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc."
+
+1) Introduction to Statistical Learning, Springer publication
+2) Datacamp.com
+3) Machine Learning with Python on Enron Dataset by William Koehrsen, Medium.com
+4) Udacity: Intro to Machine learning
+5) Sklearn Documentation

@@ -1,0 +1,4 @@
+1) Udacity course Data Analysis with R
+2) Datacamp Data Visualization with ggplot2
+3) Data Visualization : Choosing a right figure type. ( https://www.cscu.cornell.edu/news/statnews/stnews89.pdf)
+4) An Introduction to Statistical Learning with applications in R, Springer publication. 
