@@ -1,0 +1,4 @@
+Resources used for the project:
+
+1) Udacity help forum
+2) Data Wrangling Udacity course
